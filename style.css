@@ -1,0 +1,26 @@
+.buy-now-button{
+    background-image: linear-gradient(rgb(202, 19, 74),rgb(214, 95, 95));
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+}
+.taxt-color{
+    color:lightslategray;
+}
+.categoris-size{
+   
+}
+.bg-1{
+    border: peru;
+    margin-top: 2px;
+}
